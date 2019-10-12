@@ -22,4 +22,4 @@ Goto ---> localhost:3001/graphql to test graphql api
 <img src="https://github.com/harsh6768/graphql-api/blob/master/Images/Screenshot%20from%202019-10-12%2014-12-39.png" alt=""/>
 
 
-Visit (GraphQl Documentation)[https://graphql.org/]
+Visit [GraphQl Documentation](https://graphql.org/) for more information
