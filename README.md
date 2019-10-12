@@ -13,4 +13,10 @@
 
 Goto ---> localhost:3001/graphql to test graphql api
 
+1. Add Post
+
 <img src="https://github.com/harsh6768/graphql-api/blob/master/Images/Screenshot%20from%202019-10-12%2014-11-15.png" alt=""/>
+
+2. Get All Posts
+
+<img src="https://github.com/harsh6768/graphql-api/blob/master/Images/Screenshot%20from%202019-10-12%2014-12-39.png" alt=""/>
