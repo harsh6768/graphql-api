@@ -9,4 +9,8 @@
 2. Install the node module and all the packages
 
        npm install
-       
+      
+
+Goto ---> localhost:3001/graphql to test graphql api
+
+<img src="https://github.com/octivia/Awesome-Android/blob/master/Screenshot/auth1.jpeg" alt="" width="250" height="450" />
