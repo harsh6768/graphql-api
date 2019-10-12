@@ -13,4 +13,4 @@
 
 Goto ---> localhost:3001/graphql to test graphql api
 
-<img src="https://github.com/octivia/Awesome-Android/blob/master/Screenshot/auth1.jpeg" alt="" width="250" height="450" />
+<img src="https://github.com/harsh6768/graphql-api/blob/master/Images/Screenshot%20from%202019-10-12%2014-11-15.png" alt="" width="450" height="450" />
